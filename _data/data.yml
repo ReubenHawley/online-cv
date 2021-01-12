@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Reuben Hawley
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: reubenhawley@gmail.com
+    phone: 0618800204
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: reuben-hawley-976520109
+    github: ReubenHawley
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@theonlyReuben'
+    stack-overflow: # 14993737/reuben-hawley
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,92 +29,63 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Afrikaans
+        level: Native
 
-      - idiom: Spanish
+      - idiom: Dutch
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Trading
         link:
 
-      - item: Cooking
+      - item: Machine Learning
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      In the 10years in which I've been a proud business owner, determination,dedication
+      and ambition has achieved me Master trainer status, I presented at Neon Run event
+      to 3000 people. I had produced and given workshops to training professionals. Boast more than 1200 success stories.
+      After relocating to Netherlands i felt it was time a for change and found my passion in programming and
+      will be pursuing my bachelors in IT.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Autodidact
+      university: Self-study
+      time: 2019 - currently
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Having read the python documentation and following the book of Pieter Spronck,
+        I learned to program using python, after which i moved over to linux in order to gain experience.
+        i am currently busy with a Udemy course on vanilla javascript and will be enrolling to do my bachelors in ICT
+        in September. Libraries and frameworks i have worked with:
+          - Flask
+          - Django
+          - Numpy
+          - sklearn
+          - Pandas
+          - Multiprocessing/asyncio/threading
+          - ccxt
+          - nodejs
+    - degree: Diploma in Exercise Science
+      university: HFPA
+      time: 2009 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Learning about physiology,anatomy,kinesiology,psychology,business practices
+        in order to analyse data, process it into a workable program for individuals
+        as well as in group format based on needs according to specialized population groups.
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2019 - 2020
+      company: Private
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In a team of 4 i was the lead developer solely responsible for the design, testing, hosting and
+        deployment of an algorithmic trading platform.
+          - successfully deployed on AWS EC2
 projects:
     title: Projects
     intro: >
@@ -122,69 +93,45 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Autobot
+        link: "https://github.com/ReubenHawley/Autobot"
+        tagline: "A trading app and portfolio manager with backtesting capabilities"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Tradingview_bot
+        link: "https://github.com/ReubenHawley/Tradingview_bot"
+        tagline: "A webhook client for executing trades based on alerts on Tradingview."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Loan-Calculator
+        link: "https://github.com/ReubenHawley/Loan-Calculator"
+        tagline: "A lightweight calculator for determining repayments and loans written in vanilla javascript"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Task_list
+        link: "https://github.com/ReubenHawley/Task_list"
+        tagline: "A lightweight browser based task list written in vanilla javascript"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Car_forum
+        link: "https://github.com/ReubenHawley/Car_forum"
+        tagline: "A car forum social media website for car lovers"
 
 skills:
     title: Skills &amp; Proficiency
-
+    Toolsets i am competent in
     toolset:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Pandas
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Numpy
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javascript
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
