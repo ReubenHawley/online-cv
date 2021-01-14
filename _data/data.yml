@@ -114,8 +114,7 @@ projects:
         tagline: "A car forum social media website for car lovers"
 
 skills:
-    title: Skills &amp; Proficiency
-    Toolsets i am competent in
+    title: Skills & Toolsets
     toolset:
       - name: Python & Django
         level: 98%
