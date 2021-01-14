@@ -48,11 +48,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      In the 10years in which I've been a proud business owner, determination,dedication
-      and ambition has achieved me Master trainer status, I presented at Neon Run event
-      to 3000 people. I had produced and given workshops to training professionals. Boast more than 1200 success stories.
-      After relocating to Netherlands i felt it was time a for change and found my passion in programming and
-      will be pursuing my bachelors in IT.
+      After leaving my business behind in South Africa and relocating to the Netherlands, I felt the need to put
+      my family first and get settled as well as learn Dutch to that of a professional level.
+      Although I am certified in exercise science, I have found my passion in
+      software development. I have always had a passion for technology and have been involved with it from a
+      young age. Software development is a lifelong learning journey to which i am fully committed and as such
+      have become proficient in python and in doing so learned libraries and frameworks such as Pandas,Django, Flask, Numpy,sklearn,
+      ccxt,celery, multiprocessing/threading while building meaningful projects with real world use cases.
+      In working on these projects i have become familiar with LINUX, and deploying applications on AWS.
+      I have since started learning vanilla javascript with which i hope to be able to build mobile and web applications
+      I am enrolling to do my bachelors in ICT with specializing software developement.
 
 education:
     - degree: Autodidact
@@ -130,7 +135,3 @@ skills:
 
       - name: Javascript
         level: 75%
-
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
